@@ -34,6 +34,10 @@ window.Config = {
       url: 'http://47.113.223.213:5212'
     },
     {
+      text: 'Snavigation',
+      url: 'https://nav.bao-feng.top/'
+    },
+    {
       text: 'Baofeng BingAI',
       url: 'https://ai.bao-feng.top'
     },
